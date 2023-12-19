@@ -4,7 +4,7 @@ export const Footer = () => {
       <p className="font-semibold text-lg">spense.</p>
       <p className="text-gray-300">
         Spense is an open platform for individuals to share their unfiltered
-        thoughts. Discuss the topics you love, and get paid for doing{" "}
+        thoughts. Discuss the topics you love, and get paid for doing{"  "}
         <span>just</span> that.
       </p>
       <div className="flex flex-wrap">
